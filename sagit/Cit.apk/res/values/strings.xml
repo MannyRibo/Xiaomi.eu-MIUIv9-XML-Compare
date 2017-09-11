@@ -68,6 +68,7 @@
   <string name="badpoint_category">坏点测试</string>
   <string name="baterry_percent">"Amount Of Battery Charge: "</string>
   <string name="baterry_temperature">"Battery Temperature: "</string>
+  <string name="battery_info">Charging battery related information</string>
   <string name="begin_to_save_finger_data">Begin to save finger data</string>
   <string name="bio_assay_time">活体识别耗时</string>
   <string name="bio_flag">活体标识</string>
@@ -270,6 +271,8 @@ Touch the screen to start GPS…"</string>
   <string name="cit_hall_near">near</string>
   <string name="cit_hall_test_summary">When a magnet cloase to the green area,the text should turn to near,otherwise the text should be far.</string>
   <string name="cit_hall_test_title">Hall</string>
+  <string name="cit_hardware_info_summary">Please wait... Rendering hardware information of this device</string>
+  <string name="cit_hardware_info_title">Hardware Info</string>
   <string name="cit_headset_button_check_summary">When headphones are connected, press the buttons on the headphone remote (often located on the cord). The corresponding text on screen should turn green.</string>
   <string name="cit_headset_button_check_title">Headphone buttons</string>
   <string name="cit_headset_button_click">Press the buttons on the headphones</string>
@@ -959,6 +962,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="test_success_tips_string" formatted="false">成功条件：%s%s</string>
   <string name="test_unfinished">未完成</string>
   <string name="testagain">You can Press key HOME to test again</string>
+  <string name="testcase_name">Name</string>
   <string name="testing">测试中</string>
   <string name="timeout">超时</string>
   <string name="timeout_before_press">超时，需在%ds内按下手指，返回重来。</string>
