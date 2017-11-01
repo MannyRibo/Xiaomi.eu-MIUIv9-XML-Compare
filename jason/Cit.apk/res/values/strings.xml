@@ -89,6 +89,8 @@
   <string name="cit_OTG_plugout_check_title">OTG (removal)</string>
   <string name="cit_OTG_waiting_in">Connect USB OTG device now</string>
   <string name="cit_OTG_waiting_out">Disconnect USB OTG device now</string>
+  <string name="cit_abnormal_reboot_summary">Please wait...Reading stability data on this device.</string>
+  <string name="cit_abnormal_reboot_title">Device Stability Data</string>
   <string name="cit_ac_charger_in">Charging via AC</string>
   <string name="cit_ac_charger_out">AC charger disconnected</string>
   <string name="cit_accdata_sensor_check_summary">Values for X, Y, Z, coordinates should appear below</string>
@@ -265,6 +267,7 @@ Touch the screen to start GPS…"</string>
   <string name="cit_gyroscope_sensor_check_title">Gyroscope</string>
   <string name="cit_hall_down_arrow">↓</string>
   <string name="cit_hall_far">far</string>
+  <string name="cit_hall_miui_test_summary">When a magnet cloase to the green area,screen black,otherwise screen bright screen.</string>
   <string name="cit_hall_near">near</string>
   <string name="cit_hall_test_summary">When a magnet cloase to the green area,the text should turn to near,otherwise the text should be far.</string>
   <string name="cit_hall_test_title">Hall</string>
@@ -936,7 +939,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="test_again">再测一次</string>
   <string name="test_algo">情景测试</string>
   <string name="test_app_version">测试工具版本:</string>
-  <string name="test_auto">自动测试</string>
+  <string name="test_auto">auto test</string>
   <string name="test_bad_point">坏点测试</string>
   <string name="test_bad_point_title">坏点测试:</string>
   <string name="test_bio_assay">活体整机测试</string>
@@ -965,13 +968,13 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="test_hbd_calibraion_avg">调光后均值(R)</string>
   <string name="test_hbd_calibraion_electricity">电流值(I)</string>
   <string name="test_hbd_feature">心率整机测试</string>
-  <string name="test_interrupt_pin">Interrupt pin测试</string>
+  <string name="test_interrupt_pin">Interrupt pin test</string>
   <string name="test_interrupt_pin_title">Interrupt pin测试:</string>
   <string name="test_performance">速度测试</string>
-  <string name="test_pixel_open">Pixel开路测试</string>
+  <string name="test_pixel_open">Pixel open circuit test</string>
   <string name="test_rawdata_saturated">Rawdata饱和测试</string>
   <string name="test_report_make">测试报告</string>
-  <string name="test_reset_pin">Reset pin测试</string>
+  <string name="test_reset_pin">Reset pin test</string>
   <string name="test_reset_pin_title">Reset pin测试:</string>
   <string name="test_result">TEST RESULT</string>
   <string name="test_sensor">Pixel开短路测试</string>
@@ -981,7 +984,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="test_sensor_fine_title">模组异常检测:</string>
   <string name="test_sensor_result">测试结果:</string>
   <string name="test_sensor_title">Pixel开短路测试:</string>
-  <string name="test_spi">SPI测试</string>
+  <string name="test_spi">SPI test</string>
   <string name="test_spi_chip_id">Chip ID:</string>
   <string name="test_spi_fw">固件版本号:</string>
   <string name="test_spi_performance">SPI性能测试</string>
@@ -989,8 +992,8 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="test_spi_performance_get_mode">读芯片模式耗时(1Byte):</string>
   <string name="test_spi_performance_get_rawdata">采集rawdata耗时(%dBytes):</string>
   <string name="test_spi_performance_title">SPI性能测试:</string>
-  <string name="test_spi_title">SPI测试:</string>
-  <string name="test_succeed">成功</string>
+  <string name="test_spi_title">SPI test:</string>
+  <string name="test_succeed">Success</string>
   <string name="test_success_tips" formatted="false">成功条件: %s%d</string>
   <string name="test_success_tips_float" formatted="false">成功条件: %s%s</string>
   <string name="test_success_tips_multi_case" formatted="false">成功条件: %s%s or %s</string>
