@@ -7,6 +7,8 @@
   <string name="custom_lock_wallpaper_enter">Enter</string>
   <string name="default_lockscreen_unlock_hint_text">Swipe up to unlock</string>
   <string name="delete">Delete</string>
+  <string name="do_disclosure_generic">This device is managed by your organization</string>
+  <string name="do_disclosure_with_name">This device is managed by %s</string>
   <string name="emergency_call_string">Emergency</string>
   <string name="face_data_input_camera_fail">"Couldn't load camera"</string>
   <string name="face_data_input_camera_ok">Loading camera…</string>
@@ -67,7 +69,7 @@
   <string name="input_password_after_boot_msg">To unlock device, enter your password</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Can't switch between spaces during a call"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">You need to enter First space after the device was rebooted</string>
-  <string name="input_password_handle_sdcard_fs">Turn off \"Mock SD card optimization\" before entering Second space.</string>
+  <string name="input_password_handle_sdcard_fs">"Can't enter Second space from Lock screen. Enter from First space."</string>
   <string name="input_password_hint_text">Enter password</string>
   <string name="input_pattern_hint_text">Draw your unlock pattern</string>
   <string name="input_pin_code">Enter PIN</string>
@@ -94,15 +96,16 @@
   <string name="keyguard_charging_info_tip_text4">"Don't use your device actively while it's charging to avoid overheating."</string>
   <string name="keyguard_charging_info_tip_text5">Batteries charge longer when they get hotter than usual.</string>
   <string name="keyguard_charging_info_tip_text6">Turn the screen off and put your device away to cool it off.</string>
-  <string name="keyguard_left_bankcard">Mi Pay</string>
-  <string name="keyguard_left_buscard">Transport card</string>
-  <string name="keyguard_left_remotecentral">Mi Remote</string>
-  <string name="keyguard_left_smarthome">Mi Home</string>
+  <string name="keyguard_left_bankcard">Calculator</string>
+  <string name="keyguard_left_buscard">Notes</string>
+  <string name="keyguard_left_remotecentral">Calendar</string>
+  <string name="keyguard_left_smarthome">Contacts</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Quick charging. Tap to view details.</string>
   <string name="keyguard_quickly_charging_info_charging_text">Quick charging…</string>
   <string name="keyguard_torch_cover_text">To keep torch on, hold the Power button</string>
   <string name="lock_screen_date">EEEE, MMMM d</string>
   <string name="lock_screen_date_12">EEEE, MMMM d</string>
+  <string name="lock_screen_no_sim_card">No SIM card</string>
   <string name="lock_wallpaper_enter">Enter</string>
   <string name="lock_wallpaper_learn_more">More</string>
   <string name="lockscreen_access_pattern_cell_added">Cell added</string>
@@ -137,5 +140,6 @@
   <string name="unlockscreen_low_battery">Connect charger now</string>
   <string name="unlockscreen_recharge_completed">Battery charged</string>
   <string name="unlockscreen_recharging_message">Charging %d%%</string>
+  <string name="wallpaper_global_des_drop_down_notify_text">Release to view details</string>
   <string name="wrong_password">Incorrect password</string>
 </resources>

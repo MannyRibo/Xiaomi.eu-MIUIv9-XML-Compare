@@ -157,7 +157,7 @@
         <item>Searching for WLAN</item>
         <item>Using GPS</item>
         <item>Occupying CPU</item>
-        <item>Waking device frequentl</item>
+        <item>Waking device frequently</item>
     </string-array>
     <string-array name="power_checker_group_suffix">
         <item></item>
@@ -175,6 +175,10 @@
     <string-array name="thermal_summaries">
         <item>Current temperature control mode</item>
         <item>Current performance mode</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Performance</item>
+        <item>Balanced</item>
     </string-array>
     <array name="read_enable" />
     <string-array name="read_disable">

@@ -71,7 +71,7 @@ Last backed up on %2$s"</string>
   <string name="enable_cloud_service_notification">You need to activate Mi Cloud</string>
   <string name="enable_find_device_error">"Can't turn on Find device. %1$s"</string>
   <string name="enable_find_device_success">Find device is on.</string>
-  <string name="enable_micloud">Use Mi Cloud</string>
+  <string name="enable_micloud">Sign in to use Mi Cloud</string>
   <string name="enable_sync">Sync</string>
   <string name="enable_sync_dspt">"Don't sync"</string>
   <string name="error_data_in_transfer">Sync will finish in %s hours.</string>
@@ -133,6 +133,28 @@ If you switch SIM cards, another SMS will be sent automatically to reactivate th
   <string name="i_know">OK</string>
   <string name="input_password_hint">Enter password</string>
   <string name="internet_access_dspt">This app needs to connect to the internet to work normally.</string>
+  <string name="ks_certificate_udpate_time">Certificate update</string>
+  <string name="ks_certificate_version">Certificate number</string>
+  <string name="ks_download_certificate">Download certificate</string>
+  <string name="ks_download_success">Downloaded successfully</string>
+  <string name="ks_fingerprint_payment">Fingerprint payments</string>
+  <string name="ks_fingerprint_status">Payment status</string>
+  <string name="ks_key_download_button">ks_key_download_button</string>
+  <string name="ks_key_status">ks_key_status</string>
+  <string name="ks_key_udpate_time">ks_key_udpate_time</string>
+  <string name="ks_key_version">ks_key_version</string>
+  <string name="ks_name_alipay">Alipay</string>
+  <string name="ks_name_fido">FIDO</string>
+  <string name="ks_name_soter">WeChat</string>
+  <string name="ks_status_available">Available</string>
+  <string name="ks_status_unavailable">Not available</string>
+  <string name="ks_update_certificate">Certificate</string>
+  <string name="ks_update_fail">"Couldn't download"</string>
+  <string name="ks_update_fail_code">"Couldn't download certificate. Error code: %d"</string>
+  <string name="ks_update_fail_no_network">"Couldn't connect to the network. Connect and try again."</string>
+  <string name="ks_update_fail_request_timeout">Connection request timed out. Wait a minute or two and try again.</string>
+  <string name="ks_update_success">Updated successfully</string>
+  <string name="ks_update_wait">Just a sec…</string>
   <string name="license_host_unreachable">"Can't connect to network. To view this information now, go to %s."</string>
   <string name="loading">Just a sec…</string>
   <string name="loading_hint">Loading</string>
@@ -401,7 +423,7 @@ Use a different account."</string>
   <string name="micloud_title_full_dspt">"You've reached your storage limit"</string>
   <string name="micloud_unlogin_for_time_summary"/>
   <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
-  <string name="micloud_upgrade_member">Get more storage space</string>
+  <string name="micloud_upgrade_member">Get storage</string>
   <string name="micloud_upgrade_space">Get storage</string>
   <string name="micloud_user_space_title">Storage space</string>
   <string name="micloud_user_space_usage">Storage space</string>
@@ -531,6 +553,7 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="sync_sub_dspt">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
   <string name="sync_sub_dspt_provision">Sync photos, contacts, music, apps, and more across all your devices</string>
   <string name="sync_sub_int_dspt">An outgoing international SMS message may be required to activate this service. Your carrier will charge you for this message.</string>
+  <string name="title_back">Back</string>
   <string name="title_reg">Create Mi Account</string>
   <string name="total_space_upgraded_to">Total space:%s</string>
   <string name="trying_to_connect_to_network">Connecting to the network…</string>
@@ -561,5 +584,6 @@ This feature encrypts and sends your device's ID to Mi's servers."</string>
   <string name="wipe_secret_photo_dialog_title">"Hidden photos aren't synced"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xiaomi_cloud_service_subtitle">All important items in one place</string>
   <string name="xmpp_server_addr"/>
 </resources>
